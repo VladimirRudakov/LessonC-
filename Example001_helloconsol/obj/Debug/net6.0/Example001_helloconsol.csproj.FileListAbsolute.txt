@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\bin\Debug\net6.0\Example001_helloconsol.exe
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\bin\Debug\net6.0\Example001_helloconsol.deps.json
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\bin\Debug\net6.0\Example001_helloconsol.runtimeconfig.json
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\bin\Debug\net6.0\Example001_helloconsol.dll
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\bin\Debug\net6.0\Example001_helloconsol.pdb
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\Example001_helloconsol.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\Example001_helloconsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\Example001_helloconsol.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\Example001_helloconsol.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\Example001_helloconsol.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\Example001_helloconsol.dll
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\refint\Example001_helloconsol.dll
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\Example001_helloconsol.pdb
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\Example001_helloconsol.genruntimeconfig.cache
+C:\Users\Xiaomi\Desktop\С шарп\Example001_helloconsol\obj\Debug\net6.0\ref\Example001_helloconsol.dll
